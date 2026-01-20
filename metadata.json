@@ -1,0 +1,5 @@
+{
+  "name": "ClassPilot - Gestion Pédagogique Intelligente",
+  "description": "Une plateforme professionnelle de gestion de classe pour les enseignants d'Afrique francophone, permettant le suivi des élèves, des notes, de l'assiduité et la génération de rapports automatisés.",
+  "requestFramePermissions": []
+}
